@@ -1,0 +1,26 @@
+.bodyimg{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.header{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    color: white;
+}
+.header1{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    color: white;
+}
+.head{
+    position: absolute;
+    bottom: 300px;
+    left: 16px;
+   
+}
+a: link{
+    color: white;
+}
